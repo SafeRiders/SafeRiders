@@ -16,7 +16,7 @@ SafeRiders' finalist submission at START Hack 2017
 * Adds value for family cars
 
 ## How we built it
-* Programmed and worked with the Bosch XDK and its acoustic sensor to identify sounds in the car's interior
+* Programmed and worked with the Bosch XDK and its acoustic sensor to identify sounds in the car's interior (Includes functions to collect, analyze and send acoustic data from Bosch XDK)
 * Deployed a Django back-end infrastructure to sore information and process signals
 * Established communication between the sensor and the server, as well as the server and the mobile application, over HTTP
 * Developed an Android application to notify the user in case of emergency and provide useful information e.g. emergency phone numbers
